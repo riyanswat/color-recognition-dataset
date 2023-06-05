@@ -1,7 +1,18 @@
+# TL;DR 
+
+This GitHub repository contains a dataset for color recognition, aimed at assisting color-blind people. It is organized by color, and contributions of high-quality images showcasing different shades and tones are requested to improve the dataset. By contributing, you help advance color recognition technology and create more inclusive tools for the color-blind.
+
+
+
+
+
 # Color Recognition Dataset
 
-This repository contains a dataset for color recognition, specifically designed to train models that assist color-blind/color-agnosic people. The dataset is organized into directories based on common colors and each directory contains pictures that prominently feature the respective color. While I've scraped some data from DuckDuckGo using the duckduckgo_search module, I am in need of more high-quality images that prominently showcase the colors. I kindly request your contributions to help expand and improve this dataset. Your contributions will greatly benefit the development of models for color recognition. Thank you in advance for your support!
+This repository contains a comprehensive dataset for color recognition, specifically designed to train models that assist color-blind/color-agnosic people. The dataset is organized into directories based on common colors, with each directory containing images that feature the respective color.
 
+To ensure the dataset's diversity and effectiveness, we kindly request your valuable contributions. We are particularly interested in obtaining high-quality images that showcase various shades and tones of colors. These additional contributions will significantly enhance the dataset and improve the development of models for color recognition.
+
+If you have visually appealing images that predominantly represent specific colors or shades (e.g., shades of blue), we invite you to contribute them to this dataset. By adding your contributions, you will actively support the advancement of color recognition technology and help create more inclusive tools for color-blind/color-agnosic individuals.
 
 ## Purpose
 
