@@ -1,15 +1,15 @@
 # Color Recognition Dataset
 
-This repository contains a dataset for color recognition, specifically designed to train models that assist color-blind people. The dataset is organized into directories based on common colors, and each directory contains pictures that prominently feature the respective color.
+This repository contains a dataset for color recognition, specifically designed to train models that assist color-blind/color-agnosic people. The dataset is organized into directories based on common colors and each directory contains pictures that prominently feature the respective color. While I've scraped some data from DuckDuckGo using the duckduckgo_search module, I am in need of more high-quality images that prominently showcase the colors. I kindly request your contributions to help expand and improve this dataset. Your contributions will greatly benefit the development of models for color recognition. Thank you in advance for your support!
 
 
 ## Purpose
 
-The purpose of this dataset is to provide a comprehensive collection of images representing various colors. As someone who is color blind myself, I was inspired to create this dataset to train models that assist people with color vision deficiencies in perceiving and identifying colors more effectively.
+The purpose of this dataset is to provide a comprehensive collection of images representing various colors. As someone who has color agnosia myself, I was inspired to create this dataset to train models that assist people with color vision deficiencies in perceiving and identifying colors more effectively.
 
 ## Dataset Structure
 
-The dataset follows a directory structure where each color has its own folder, and images relevant to that color are placed inside. For example:
+The dataset follows a directory structure where each color has its own folder and images relevant to that color are placed inside. For example:
 - blue/
   - blue_car.jpg
   - blue_shirt.png
