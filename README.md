@@ -39,15 +39,33 @@ Contributors are encouraged to add images to the appropriate color directories, 
 
 ## Contributing
 
-Contributions to this dataset are welcome! To contribute, please follow these guidelines:
+Contributions to this dataset are welcome! By contributing, you help advance color recognition technology and create more inclusive tools for the color-blind.
 
-1. Fork this repository and create a new branch for your changes.
-2. Add new images to the appropriate color directory, ensuring they are relevant to that color.
-3. If necessary, create a new color directory if it doesn't already exist.
-4. Commit your changes and submit a pull request to merge your branch with the main repository.
-5. Provide a detailed description of the changes you made in the pull request.
+### Guidelines for Contributions
+
+To contribute to this dataset, please follow these guidelines:
+
+1. **Fork** this repository and create a new branch for your changes.
+
+2. **Add new images** to the appropriate color directory, ensuring they are relevant to that color. Please ensure that the images you contribute meet the following requirements:
+   - Only include images that you have explicit permission to use, or images that you have created yourself.
+   - Ensure that the images are licensed under terms that allow for re-licensing under the MIT License.
+   - If applicable, provide appropriate attribution or licensing information for the images you contribute.
+
+3. If necessary, **create a new color directory** if it doesn't already exist. Make sure to follow the existing naming conventions for color directories.
+
+4. **Commit** your changes and submit a **pull request** to merge your branch with the main repository.
+
+5. In the pull request, please provide a **detailed description** of the changes you made, including any relevant information about the images you contributed and their licensing.
+
+### Image Licensing
+
+To maintain the open source nature of this dataset, it is important to ensure that all contributed images are licensed appropriately. Please only include images that you have the rights to use, modify, and re-license under the terms of the MIT License.
 
 Please note that by contributing to this dataset, you agree to release your contributions under the [MIT License](LICENSE.md).
+
+Thank you for your contributions and for helping make color recognition more accessible to everyone!
+
 
 ## License
 
