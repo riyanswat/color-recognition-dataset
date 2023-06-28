@@ -6,13 +6,21 @@ This GitHub repository contains a dataset for color recognition, aimed at assist
 
 
 
-# Color Recognition Dataset
+## Color Recognition Dataset
 
-This repository contains a comprehensive dataset for color recognition, specifically designed to train models that assist color-blind/color-agnosic people. The dataset is organized into directories based on common colors, with each directory containing images that feature the respective color.
+This repository contains a comprehensive dataset for color recognition, specifically designed to train models that assist color-blind/color-agnosic individuals. The dataset is organized into directories based on common colors, with each directory containing images that feature the respective color.
 
 To ensure the dataset's diversity and effectiveness, we kindly request your valuable contributions. We are particularly interested in obtaining high-quality images that showcase various shades and tones of colors. These additional contributions will significantly enhance the dataset and improve the development of models for color recognition.
 
-If you have visually appealing images that predominantly represent specific colors or shades (e.g., shades of blue), we invite you to contribute them to this dataset. By adding your contributions, you will actively support the advancement of color recognition technology and help create more inclusive tools for color-blind/color-agnosic individuals.
+Please note that the current images included in the dataset have been randomly scraped from the web. It is important to be aware that their licenses may not allow their use for training machine learning models. To address this concern and maintain compliance, we kindly request that all contributed images adhere to the following requirements:
+
+- **Permissive License or Created by You**: Ensure that the images you contribute are either explicitly licensed for open use or images that you have created yourself.
+- **Allow Re-licensing**: Confirm that the images you contribute are licensed under terms that permit re-licensing under the MIT License.
+
+We understand that the current images serve as examples and may not meet the necessary licensing requirements. Therefore, we invite contributors to provide new images that align with the licensing guidelines mentioned above.
+
+By adding your contributions, you will actively support the advancement of color recognition technology and help create more inclusive tools for color-blind/color-agnosic individuals.
+
 
 ## Purpose
 
